@@ -1,0 +1,17 @@
+﻿# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Runtime data
+.DS_Store
+Thumbs.db
+
+# Optional: remove package-lock.json if you want
+# package-lock.json
