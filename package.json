@@ -1,9 +1,0 @@
-{
-  "name": "sampleprojects",
-  "version": "1.0.0",
-  "type": "module",
-  "dependencies": {
-    "express": "^4.22.1",
-    "nodemailer": "^7.0.12"
-  }
-}
